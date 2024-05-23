@@ -1,0 +1,42 @@
+body {
+  background-color: #e2dddd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+  height: 500px;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: white;
+  width: 200px;
+  gap: 2rem;
+  padding: 20px;
+  border: 0;
+  border-radius: 10px;
+}
+
+#my-color {
+  height: ;
+  background-color: beige;
+  width: 130px;
+  height: 150px;
+  border: 1px;
+  border-color: black;
+  border-radius: 10px;
+  border-style: solid;
+}
+
+#my-button {
+  background-color: cadetblue;
+  color: white;
+  border: 0;
+  border-radius: 10px;
+  margin: 0px;
+  padding: 10px;
+}
